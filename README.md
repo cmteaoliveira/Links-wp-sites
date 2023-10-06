@@ -5,6 +5,10 @@ https://f5digitalmarketing.com.br/
 
 https://forthedistribuidorasolar.com.br/
 
+https://lp.ltvinsider.com.br/mentoria-ltv/
+
+https://lp.ltvinsider.com.br/lp-automacoes-magneticas/
+
 https://flysun.com.br/
 
 https://ottoenergy.com.br/
