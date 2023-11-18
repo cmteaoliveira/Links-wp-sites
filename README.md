@@ -1,7 +1,17 @@
-# Links-wp-sites
-Link's referentes ao sites implantados em wordpress
+# Sites em Bootstrep (deploy Netflify)
 
 https://f5digitalmarketing.com.br/
+
+https://kfsteelindustria.netlify.app/
+
+https://vsmoveisplanejados.netlify.app/
+
+https://barbeariaoldtimes.netlify.app/
+
+
+# Links-wp-sites
+
+Link's referentes ao sites implantados em wordpress
 
 https://forthedistribuidorasolar.com.br/
 
@@ -20,13 +30,6 @@ https://www.lulaystore.com/
 
 https://salutimedic.com.br/
 
-# Sites em Bootstrep (deploy Netflify)
-
-https://kfsteelindustria.netlify.app/
-
-https://vsmoveisplanejados.netlify.app/
-
-https://barbeariaoldtimes.netlify.app/
 
 
 
